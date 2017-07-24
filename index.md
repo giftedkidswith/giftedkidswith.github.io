@@ -8,4 +8,3 @@ Home	About	Gifted kids with…	Early Years	Research	Resources	Events	Contact<br>
 		Food sensitivities<br>					
 		Electro-magnetic sensitivities	<br>				
 <style>footer.site-footer{display:none!important}</style>
-l
