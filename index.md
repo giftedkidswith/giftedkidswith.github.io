@@ -9,11 +9,18 @@ Home	About	Gifted kids with…	Early Years	Research	Resources	Events	Contact<br>
 		Electro-magnetic sensitivities	<br>			
 		
 <style>
-footer.site-footer{display:none!important}
-.project-name {
-  display: none;
+footer.site-footer{
+  display:none!important
 }
-.project-name:after {
-  content: 'GiftedKidsWith';
+.project-name {
+  text-indent: -9999px;
+  line-height: 0; /* Collapse the original line */
+}
+
+.project-name::after {
+  content: "GiftedKidsWith";
+  text-indent: 0;
+  display: block;
+  line-height: initial;
 }
 </style>
