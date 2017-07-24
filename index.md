@@ -1,9 +1,11 @@
 # GiftedKidsWith
-Home	About	Gifted kids with…	Early Years	Research	Resources	Events	Contact
-		Spiritual intelligence	Early Years Curriculum				
-		Learning differences	Froebel				
-		Autism	Steiner				
-		Aspergers	Montessori				
-		ADD/ADHD	Pestalozzi				
-		Food sensitivities					
-		Electro-magnetic sensitivities					
+Home	About	Gifted kids with…	Early Years	Research	Resources	Events	Contact<br>
+		Spiritual intelligence	Early Years Curriculum		<br>		
+		Learning differences	Froebel			<br>	
+		Autism	Steiner				<br>
+		Aspergers	Montessori		<br>		
+		ADD/ADHD	Pestalozzi		<br>		
+		Food sensitivities<br>					
+		Electro-magnetic sensitivities	<br>				
+<style>footer.site-footer{display:none!important}</style>
+l
